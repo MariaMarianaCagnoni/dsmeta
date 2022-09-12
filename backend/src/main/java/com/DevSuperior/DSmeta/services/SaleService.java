@@ -2,7 +2,6 @@ package com.DevSuperior.DSmeta.services;
 
 import com.DevSuperior.DSmeta.entities.Sale;
 import com.DevSuperior.DSmeta.repositories.SaleRepository;
-import net.bytebuddy.asm.Advice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
